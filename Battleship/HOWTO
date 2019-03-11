@@ -1,0 +1,6 @@
+To use the Battleship Program do the following:
+
+1. Import all of the code for the project into an IDE such as Eclipse
+2. Open the Game.java class
+3. Run the program
+4. The program will give prompts on what to do. Follow the prompts and it will Terminate when the game is complete.
